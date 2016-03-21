@@ -1,1 +1,0 @@
-Сообщить("** *** owner_counteragents DC ***");

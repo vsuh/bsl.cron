@@ -1,0 +1,22 @@
+{
+  "tasks": {
+    "owner_counteragents_dt": {
+      "dom": [
+        30
+      ],
+      "dow" : [4,5]
+    } ,
+    "owner_counteragents_wd": {
+      "dow": [
+        2,
+        4
+      ]
+    },
+    "owner_counteragents": {
+      "date": "2016-03-03"
+    },
+    "owner_counteragents_dc": {
+      "dom": 1
+    }
+  }
+}

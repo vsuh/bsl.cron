@@ -1,0 +1,6 @@
+{
+  "server_app": "kopt-app-01",
+  "smtp_server": "mail",
+  "general_email": "sukhikh@moscollector.ru",
+  "run_bsl": "main.bsl"
+}
